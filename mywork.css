@@ -1,0 +1,39 @@
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow: 2px;
+    align-items: center;
+    margin-left: 300px;
+}
+.my{
+    margin: 30px;
+    box-shadow: dimgray 50px;
+    border-radius: 2px;
+    padding: 40px;
+    background-color: white;
+}
+.work{
+    margin: 30px;
+    box-shadow: 60px rgb(17, 17, 17);
+    border-radius: 2px;
+    padding: 40px;
+    background-color: white;
+    background-image: ;
+}
+.is{
+    margin: 30px;
+    box-shadow: 60px rgb(23, 22, 22);
+    border-radius: 2px;
+    padding: 40px;
+    background-color: white;
+}
+#me{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    align-items: center;
+    margin-left: 300px;
+}
+p{
+    padding: 30px;
+    color: rgb(21, 19, 19);
+}
